@@ -15,3 +15,9 @@ I had some issues getting Rayman Redemption working on NixOS because I didn't re
 - Run it with `nix run`. 
 
 - Enjoy! 
+
+## Note
+
+This really isn't specific to Rayman Redemption.  The flake can be easily adapted to work with basically any Wine program. Feel free to do so. 
+
+
